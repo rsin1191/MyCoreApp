@@ -31,3 +31,4 @@ D:\SET prg\SEM-6\Devops\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\refint\MyCore
 D:\SET prg\SEM-6\Devops\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.pdb
 D:\SET prg\SEM-6\Devops\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.genruntimeconfig.cache
 D:\SET prg\SEM-6\Devops\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\ref\MyCoreApp.dll
+D:\SET prg\SEM-6\Devops\repos\MyCoreApp\MyCoreApp\obj\Debug\net8.0\MyCoreApp.sourcelink.json
